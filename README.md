@@ -1,1 +1,1 @@
-# Spam_Detection_and_Pridiction
+# Spam_Detection_and_Prediction
